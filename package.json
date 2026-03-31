@@ -1,7 +1,7 @@
 {
   "name": "bw-app-36-1774962180",
   "version": "1.0.0",
-  "description": "Binary Grove monochrome ops dashboard",
+  "description": "Lunar Harbor monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
